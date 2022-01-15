@@ -1,0 +1,36 @@
+body {
+    background-image: url("download.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+h1{
+    font-size: 80px;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+h3{
+    font-size: 30px;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+#logindiv1{
+    padding-left: 100px;
+}
+#logindiv2{
+    padding-right: 100px;
+}
+span{
+    margin-right: 230px;
+}
+p{
+    font-family: 'Fredoka One', cursive;
+}
+button {
+    border-radius: 50px;
+    background-color:slateblue;
+    width: 20%;
+    height: 20%;
+    color: white;
+    
+}
