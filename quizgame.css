@@ -12,6 +12,9 @@ h2{
     padding: 60px;
     border-radius: 30px;
 }
+input{
+    color: black;
+}
 label{
     font-size: 30px;
 }
